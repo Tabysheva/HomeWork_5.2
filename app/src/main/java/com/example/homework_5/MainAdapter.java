@@ -38,5 +38,8 @@ data = new ArrayList<>();
         return data.size();
     }
 
+    public void addText(String getAnswer) {
+    }
+
     //todo create method
 }

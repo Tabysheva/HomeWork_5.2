@@ -60,4 +60,8 @@ public class HistoryFragment extends Fragment implements SendResult {
 
     }
 
+    @Override
+    public void showHistoryFragment() {
+
+    }
 }
